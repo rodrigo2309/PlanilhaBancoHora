@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanilhaBancoHora", "PlanilhaBancoHora\PlanilhaBancoHora.csproj", "{958F5681-D757-47B2-AEC7-93BEAFE03EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958F5681-D757-47B2-AEC7-93BEAFE03EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958F5681-D757-47B2-AEC7-93BEAFE03EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958F5681-D757-47B2-AEC7-93BEAFE03EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958F5681-D757-47B2-AEC7-93BEAFE03EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD4FFEA-5826-4EB3-B0F7-3316E40F92CD}
+	EndGlobalSection
+EndGlobal
